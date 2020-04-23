@@ -17,8 +17,8 @@
 #include <string>
 #include <utility>
 
-#include "codelibrary/base/array.h"
-#include "codelibrary/base/macros.h"
+#include "array.h"
+#include "macros.h"
 
 namespace cl {
 namespace internal {

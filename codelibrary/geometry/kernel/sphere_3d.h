@@ -12,8 +12,8 @@
 #include <cassert>
 #include <cmath>
 
-#include "codelibrary/geometry/kernel/box_3d.h"
-#include "codelibrary/geometry/kernel/point_3d.h"
+#include "box_3d.h"
+#include "point_3d.h"
 
 namespace cl {
 

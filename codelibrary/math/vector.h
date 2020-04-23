@@ -9,8 +9,8 @@
 #ifndef MATH_VECTOR_H_
 #define MATH_VECTOR_H_
 
-#include "codelibrary/math/vector/vector.h"
-#include "codelibrary/math/vector/vector_2d.h"
-#include "codelibrary/math/vector/vector_3d.h"
+#include "vector/vector.h"
+#include "vector/vector_2d.h"
+#include "vector/vector_3d.h"
 
 #endif // MATH_VECTOR_H_

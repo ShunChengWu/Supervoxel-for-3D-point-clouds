@@ -12,7 +12,7 @@
 #include <cassert>
 #include <cmath>
 
-#include "codelibrary/base/macros.h"
+#include "../../base/macros.h"
 
 namespace cl {
 namespace metric {

@@ -13,10 +13,10 @@
 #include <limits>
 #include <random>
 
-#include "codelibrary/base/array.h"
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/geometry/kernel/box_3d.h"
-#include "codelibrary/util/tree/octree.h"
+#include "../../base/array.h"
+#include "../../base/algorithm.h"
+#include "../kernel/box_3d.h"
+#include "../../util/tree/octree.h"
 
 namespace cl {
 namespace geometry {

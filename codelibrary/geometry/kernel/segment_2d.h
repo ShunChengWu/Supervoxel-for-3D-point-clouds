@@ -11,8 +11,8 @@
 
 #include <algorithm>
 
-#include "codelibrary/geometry/kernel/point_2d.h"
-#include "codelibrary/geometry/kernel/box_2d.h"
+#include "point_2d.h"
+#include "box_2d.h"
 
 namespace cl {
 

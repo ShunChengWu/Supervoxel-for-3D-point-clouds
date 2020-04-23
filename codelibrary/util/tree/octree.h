@@ -14,10 +14,10 @@
 #include <cstring>
 #include <utility>
 
-#include "codelibrary/base/array.h"
-#include "codelibrary/base/bits.h"
-#include "codelibrary/base/macros.h"
-#include "codelibrary/base/object_pool.h"
+#include "../../base/array.h"
+#include "../../base/bits.h"
+#include "../../base/macros.h"
+#include "../../base/object_pool.h"
 
 namespace cl {
 

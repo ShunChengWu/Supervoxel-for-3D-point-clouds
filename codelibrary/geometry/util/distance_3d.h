@@ -13,9 +13,9 @@
 
 #include <cmath>
 
-#include "codelibrary/geometry/kernel/line_3d.h"
-#include "codelibrary/geometry/kernel/plane_3d.h"
-#include "codelibrary/geometry/kernel/segment_3d.h"
+#include "../kernel/line_3d.h"
+#include "../kernel/plane_3d.h"
+#include "../kernel/segment_3d.h"
 
 namespace cl {
 namespace geometry {

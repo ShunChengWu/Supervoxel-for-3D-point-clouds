@@ -12,8 +12,8 @@
 #include <cassert>
 #include <ostream>
 
-#include "codelibrary/geometry/kernel/box_2d.h"
-#include "codelibrary/math/vector.h"
+#include "box_2d.h"
+#include "../../math/vector.h"
 
 namespace cl {
 

@@ -11,10 +11,10 @@
 
 #include <cmath>
 
-#include "codelibrary/geometry/kernel/line_3d.h"
-#include "codelibrary/geometry/kernel/plane_3d.h"
-#include "codelibrary/geometry/kernel/point_3d.h"
-#include "codelibrary/geometry/kernel/sphere_3d.h"
+#include "../kernel/line_3d.h"
+#include "../kernel/plane_3d.h"
+#include "../kernel/point_3d.h"
+#include "../kernel/sphere_3d.h"
 
 namespace cl {
 namespace geometry {

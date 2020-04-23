@@ -9,8 +9,8 @@
 #ifndef MATH_MATRIX_H_
 #define MATH_MATRIX_H_
 
-#include "codelibrary/math/matrix/matrix.h"
-#include "codelibrary/math/matrix/matrix_util.h"
-#include "codelibrary/math/matrix/symmetric_eigen.h"
+#include "matrix/matrix.h"
+#include "matrix/matrix_util.h"
+#include "matrix/symmetric_eigen.h"
 
 #endif // MATH_MATRIX_H_

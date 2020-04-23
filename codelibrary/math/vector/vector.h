@@ -14,10 +14,10 @@
 #include <cmath>
 #include <ostream>
 
-#include "codelibrary/base/array.h"
-#include "codelibrary/base/message.h"
-#include "codelibrary/math/vector/vector_2d.h"
-#include "codelibrary/math/vector/vector_3d.h"
+#include "../../base/array.h"
+#include "../../base/message.h"
+#include "vector_2d.h"
+#include "vector_3d.h"
 
 namespace cl {
 

@@ -64,7 +64,7 @@ void WritePoints(const char* filename,
 int main() {
     LOG_ON(INFO);
 
-    const std::string filename = "test.xyz";
+    const std::string filename = "/home/sc/research/Supervoxel-for-3D-point-clouds/test_data/test.xyz";
 
     cl::Array<cl::RPoint3D> points;
     cl::Array<cl::RGB32Color> colors;

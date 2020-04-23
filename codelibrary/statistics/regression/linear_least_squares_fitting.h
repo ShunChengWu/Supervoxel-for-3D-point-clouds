@@ -12,14 +12,14 @@
 #include <algorithm>
 #include <cassert>
 
-#include "codelibrary/geometry/kernel/line_2d.h"
-#include "codelibrary/geometry/kernel/line_3d.h"
-#include "codelibrary/geometry/kernel/plane_3d.h"
-#include "codelibrary/geometry/util/compare_2d.h"
-#include "codelibrary/geometry/util/compare_3d.h"
-#include "codelibrary/geometry/transform/project_3d.h"
-#include "codelibrary/statistics/principal_component_analysis_2d.h"
-#include "codelibrary/statistics/principal_component_analysis_3d.h"
+#include "../../geometry/kernel/line_2d.h"
+#include "../../geometry/kernel/line_3d.h"
+#include "../../geometry/kernel/plane_3d.h"
+#include "../../geometry/util/compare_2d.h"
+#include "../../geometry/util/compare_3d.h"
+#include "../../geometry/transform/project_3d.h"
+#include "../principal_component_analysis_2d.h"
+#include "../principal_component_analysis_3d.h"
 
 namespace cl {
 namespace statistics {
